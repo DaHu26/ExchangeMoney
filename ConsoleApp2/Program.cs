@@ -48,3 +48,4 @@ switch (operation) {
         break;
 }
 Console.WriteLine($"Ваш текущий баланс: USD: {walletUSD} RUB: {walletRUB}");
+]]]]///
